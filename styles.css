@@ -87,7 +87,9 @@ h3.muted {
 
 /* Login Page */
 .login-body {
-  background: linear-gradient(135deg, #eef2ff 0%, #fff7ed 100%);
+    background-image: url('pics/UVCE.jpg');
+
+  background: linear-gradient(135deg, #323f67 0%, #655b50 100%);
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -99,8 +101,8 @@ h3.muted {
   max-width: 420px;
   padding: 28px;
   border-radius: 12px;
-  box-shadow: 0 8px 24px rgba(20, 20, 50, 0.08);
-  background: white;
+  box-shadow: 0 8px 24px rgba(185, 74, 10, 0.08);
+  background: rgb(151, 150, 150);
 }
 
 h6{
